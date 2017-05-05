@@ -1,6 +1,6 @@
 ## End-to-End Memory Networks in TensorFlow for Language Model
 
-End-to-End Memory Networks implementation in TensorFlow for language model on the Penn Treebank (ptb) data.
+End-to-End Memory Networks implementation in [Torch](http://torch.ch/) for language model on the Penn Treebank (ptb) data.
 
 
 ### Dependencies
